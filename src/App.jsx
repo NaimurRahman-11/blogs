@@ -15,7 +15,7 @@ function App() {
       <Blog></Blog>
       <BlogQA></BlogQA>
       <ToastContainer
-        position="top-left"
+        position="top-right"
         autoClose={5000}
         hideProgressBar={false}
         newestOnTop={false}

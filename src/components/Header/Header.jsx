@@ -5,7 +5,7 @@ import personImage from '../../assets/person.png';
 const Header = () => {
     return (
         <nav className='header'>
-            <h1>Blog Universe</h1>
+            <h1>Blogs Universe</h1>
             <div className='person'>
                 <img src={personImage} alt="" />
             </div>
